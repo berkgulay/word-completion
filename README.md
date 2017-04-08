@@ -5,4 +5,4 @@ Search Key Completer Program(Word Prediction just like Google does)
 
 I am adding assignment manual and needed input files(as an example) which are mentioned in manual to my repo. Please read the assignment manual before execute the code with my or your input files.
 
-*My Report.pdf is also included about my program and algorithm for extra knowledge and program's maintability.
+*My Report.pdf is also included about my program and algorithm for extra knowledge and program's maintainability.
